@@ -1,2 +1,3 @@
-# Wanted-Pre-Free-Onboarding-
-Tokenizer, TFTokenizer 구현
+# Wanted-Pre-Onboarding-AIML
+원티드 프리온보딩 인공지능코스
+Tokenizer와 TFIDFTokenizer 구현
